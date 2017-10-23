@@ -1,4 +1,6 @@
 ## Telegram Support Messenger for Android
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMissSheyni%2FTsupport.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMissSheyni%2FTsupport?ref=badge_shield)
+
 
 [Telegram](http://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
 This repo contains the source code for *Tsupport App for Android*.
@@ -39,3 +41,7 @@ Original [Telegram App for Android](https://play.google.com/store/apps/details?i
 [Artur] (https://github.com/Ecron) for his contribution to translations and visual improvements  
 [Marvin] (https://github.com/dapoldi) for his contribution to development and testing  
 [DrKlo] (https://github.com/drklo) for creating base Telegram Android App  
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMissSheyni%2FTsupport.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMissSheyni%2FTsupport?ref=badge_large)
